@@ -1,0 +1,13 @@
+name: CD
+on:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout code
+        uses: actions/checkout@v4
+      - name: check files
+        run: |
+          ls
+          pwd
