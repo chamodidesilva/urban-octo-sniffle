@@ -1,0 +1,15 @@
+name: CI
+on:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout code
+        uses: actions/checkout@v4
+      - name: view folder contents
+        run: |
+          echo "working directory"
+          pwd
+          echo "list of files"
+          ls
