@@ -1,14 +1,13 @@
 <div align="center">
 <h3 align="center">Flask Blog App</h3>
   <p>A DevOps Anchor Project</p>
-  [![Contributors][contributors-shield]][contributors-url]
+</div>
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</div>
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
