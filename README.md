@@ -1,7 +1,7 @@
 <div align="center">
 <h3 align="center">Flask Blog App</h3>
   <p>A DevOps Anchor Project</p>
-  ![CI](https://github.com/chamodidesilva/devops-anchor-project/actions/workflows/ci.yaml/badge.svg)
+  * [![React][React.js]][React-url]
 </div>
 
 <!-- TABLE OF CONTENTS -->
