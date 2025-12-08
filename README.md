@@ -1,12 +1,12 @@
 <div align="center">
 <h3 align="center">Flask Blog App</h3>
   <p>A DevOps Anchor Project</p>
-</div>
 
 ![Last Commit](https://img.shields.io/github/last-commit/chamodidesilva/urban-octo-sniffle)
 ![Repo Size](https://img.shields.io/github/repo-size/chamodidesilva/urban-octo-sniffle)
 ![Pull Requests](https://img.shields.io/github/issues-pr/chamodidesilva/urban-octo-sniffle)
 ![Issues](https://img.shields.io/github/issues/chamodidesilva/urban-octo-sniffle)
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
