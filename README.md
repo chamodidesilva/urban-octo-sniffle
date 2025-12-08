@@ -5,6 +5,8 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/chamodidesilva/urban-octo-sniffle)
 ![Repo Size](https://img.shields.io/github/repo-size/chamodidesilva/urban-octo-sniffle)
+![CI](https://github.com/chamodidesilva/urban-octo-sniffle/actions/workflows/ci.yml/badge.svg)
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
