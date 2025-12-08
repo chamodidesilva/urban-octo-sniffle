@@ -2,8 +2,9 @@
 <h3 align="center">Flask Blog App</h3>
   <p>A DevOps Anchor Project</p>
 </div>
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
+![Last Commit](https://img.shields.io/github/last-commit/chamodidesilva/urban-octo-sniffle)
+![Repo Size](https://img.shields.io/github/repo-size/chamodideilva/urban-octo-sniffle)
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -38,6 +39,13 @@ The project will evolve through multiple stages, as displayed in the <a href="#r
 The application workload is based on the <a href="https://flask.palletsprojects.com/en/stable/tutorial/">official Flask blog tutorial</a> structure and intentionally paused at initial application factory creation to layer the DevOps practices on top of the workload.
 
 ### Current Features
+
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
 #### Application
 - Minimal Flask app endpoint returning a message
 - Custom Prometheus metric tracking the endpoint in a containerized setup
