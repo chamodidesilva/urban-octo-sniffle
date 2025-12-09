@@ -29,6 +29,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#app-structure">App Structure</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -83,9 +84,9 @@ Follow this section to set up the app with current features on your local dev en
    ```
 2. Run docker compose
    ```sh
-   docker compose up
+   docker compose up -d
    ```
-3. To tear down the resources, on a new terminal run,
+3. Tear down the resources
    ```sh
    docker compose down
    ```
@@ -133,13 +134,17 @@ If you have any suggestions to make this project better, please fork the repo an
 For major changes, please open an issue first
 to discuss what you would like to change.
 
+## License
+This project uses the [MIT](https://github.com/chamodidesilva/Ops-Blog/blob/main/LICENSE) license.
+
 ## Contact
 Email: chamodidesil@gmail.com
 
 ## Acknowledgments
 Resources that helped me throughout this project and may support you on yours.
-- https://flask.palletsprojects.com/en/stable/tutorial/
-- https://medium.com/@fenari.kostem/monitoring-your-web-app-with-prometheus-and-grafana-a-step-by-step-guide-8286dae606c7
-- https://dev.to/camptocamp-ops/testing-application-monitoring-locally-with-a-docker-composition-47hn
-- https://www.freecodecamp.org/news/learn-continuous-integration-delivery-and-deployment/
-- https://kubernetes.io/docs/tasks/
+* [Flask tutorial](https://flask.palletsprojects.com/en/stable/tutorial/)
+* [Add Prometheus and Grafana monitoring to a web app](https://medium.com/@fenari.kostem/monitoring-your-web-app-with-prometheus-and-grafana-a-step-by-step-guide-8286dae606c7)
+* [Local application monitoring testing with Docker Compose](https://dev.to/camptocamp-ops/testing-application-monitoring-locally-with-a-docker-composition-47hn)
+* [The CI/CD handbook](https://www.freecodecamp.org/news/learn-continuous-integration-delivery-and-deployment/)
+* [Kubernetes](https://kubernetes.io/docs/tasks/)
+* [Choose an Open Source License](https://choosealicense.com)
